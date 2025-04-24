@@ -17,7 +17,7 @@ Evaluation metrics (accuracy, precision, recall, F1-score, ROC AUC)
 Visualizations (confusion matrix, ROC curve).
 
 ### Dataset
-We use the Heart Failure Clinical Records Dataset available from the UCI Machine Learning Repository](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction. It contains 918 records with 11 features and 1 target.
+We use the Heart Failure Clinical Records Dataset available from the https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction. It contains 918 records with 11 features and 1 target.
 
 Age: age of the patient [years]
 
